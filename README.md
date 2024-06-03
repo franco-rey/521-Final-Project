@@ -31,3 +31,7 @@ I am keeping my api key for Alpha Vantage in a `.env` file under the name `ALPHA
 # API KEYs
 
 I am keeping my api key for Alpha Vantage in a `.env` file under the name `ALPHA_VANTAGE_API_KEY`. We may need to hard code one in for turn in though.
+
+# Project Introduction
+
+https://docs.google.com/document/d/1ayU2SJh9QIYYNkJrOQM7k2rJWfQ8PXWn1h3YexYNpaE/edit?usp=sharing
