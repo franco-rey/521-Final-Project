@@ -5,7 +5,7 @@ I am using **python 3.10.6**
 
 # matching virtual environments
 
-I have added a **requirements.txt** files that can be used to install all the modules I have in my **venv** environment in a local venv environment.
+I have added a **requirements_v2.txt** files that can be used to install all the modules I have in my **venv** environment in a local venv environment.
 
 I am using **tensorflow 2.10** because this is the reccomended version of tensorflow for windows machines that want to use a GPU
 
