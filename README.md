@@ -23,3 +23,7 @@ You can install the modules from the requirements file in your venv by using the
 
 For anyone wanting GPU support for tensor flow please look at **TensorFlow_README.txt**
 For anyone just wanting to use their cpu you won't need CUDA, but I do believe you will have to configure your install to default to targeting your CPU instead of searching for GPU. I don't think it has logic to do that on its own.
+
+# API KEYs
+
+I am keeping my api key for Alpha Vantage in a `.env` file under the name `ALPHA_VANTAGE_API_KEY`. We may need to hard code one in for turn in though.
